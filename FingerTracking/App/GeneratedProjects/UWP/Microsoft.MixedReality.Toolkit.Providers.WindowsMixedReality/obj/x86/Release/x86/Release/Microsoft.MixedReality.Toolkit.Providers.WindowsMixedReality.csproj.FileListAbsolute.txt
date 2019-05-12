@@ -1,0 +1,2 @@
+Y:\Codes\MidAirTyping\FingerTracking\App\GeneratedProjects\UWP\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality\obj\x86\Release\x86\Release\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.csprojResolveAssemblyReference.cache
+Y:\Codes\MidAirTyping\FingerTracking\App\GeneratedProjects\UWP\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality\obj\x86\Release\x86\Release\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.csproj.CoreCompileInputs.cache

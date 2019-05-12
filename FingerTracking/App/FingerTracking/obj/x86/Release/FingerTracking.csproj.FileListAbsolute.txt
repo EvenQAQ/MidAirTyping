@@ -1,0 +1,2 @@
+Y:\Codes\MidAirTyping\FingerTracking\App\FingerTracking\obj\x86\Release\FingerTracking.csprojResolveAssemblyReference.cache
+Y:\Codes\MidAirTyping\FingerTracking\App\FingerTracking\obj\x86\Release\FingerTracking.csproj.CoreCompileInputs.cache
